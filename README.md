@@ -86,7 +86,7 @@ Raw Resume-Not Enhanced using Google Gemini
 
 Enhanced Resume with the help of Google Gemini
 
-[![Enhanced Resume Preview](enhanced-resume.png)](https://keppe-john.github.io/)
+[![Enhanced Resume Preview](enhanced-resume.png)](https://keppe-john.github.io/resume/)
 
 ---
 
