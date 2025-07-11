@@ -76,7 +76,13 @@ Using the Text app on my Chromebook I proceeded to slowly and methodically (test
 
 ## 📸 Preview Screenshots
 
+Portfolio
+
 [![Portfolio Preview](portfolio.png)](https://keppe-john.github.io/portfolio-site/)
+
+"Raw Resume"
+
+[![Resume Preview](raw-resume.png)]((https://johnkeppe-resume.neocities.org/)
 
 ---
 
