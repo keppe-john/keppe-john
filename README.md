@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **John Keppe** <img src="https://robohash.org/74.33.170.190.png ?size=100x100">
+My name is **John Keppe**  <img src="https://robohash.org/74.33.170.190.png ?size=100x100">
 
 and I am a tech-savvy individual and a Neural Novice seeking to transition into an entry-level tech role.
 
@@ -76,9 +76,7 @@ Using the Text app on my Chromebook I proceeded to slowly and methodically (test
 
 ## 📸 Preview Screenshots
 
-<a href="https://keppe-john.github.io/portfolio-site/">
-  <img src="portfolio.png" alt="Portfolio Preview" style="width:300px; border: 2px solid #ff71ce;">
-</a>
+[![Portfolio Preview](portfolio.png)](https://keppe-john.github.io/portfolio-site/)
 
 ---
 
