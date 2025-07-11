@@ -76,13 +76,17 @@ Using the Text app on my Chromebook I proceeded to slowly and methodically (test
 
 ## 📸 Preview Screenshots
 
-Portfolio
+Portfolio-Created with Assistance from Microsoft Copilot
 
 [![Portfolio Preview](portfolio.png)](https://keppe-john.github.io/portfolio-site/)
 
-"Raw Resume"
+Raw Resume-Not Enhanced using Google Gemini
 
-[![Resume Preview](raw-resume.png)]((https://johnkeppe-resume.neocities.org/)
+[![Resume Preview](raw-resume.png)](https://johnkeppe-resume.neocities.org/)
+
+Enhanced Resume with the help of Google Gemini
+
+[![Enhanced Resume Preview](enhanced-resume.png)](https://keppe-john.github.io/)
 
 ---
 
