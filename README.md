@@ -80,6 +80,7 @@ Using the Text app on my Chromebook I proceeded to slowly and methodically (test
   <img src="portfolio.png" alt="Portfolio Preview" style="width:300px; border: 2px solid #ff71ce;">
 </a>
 
+---
 
 <img src="https://robohash.org/74.33.170.190.png?set=set4&size=100x100">
 
