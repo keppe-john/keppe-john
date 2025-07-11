@@ -72,6 +72,8 @@ Using the Text app on my Chromebook I proceeded to slowly and methodically (test
   </span>
 </div>
 
+---
+
 ## 📸 Preview Screenshots
 
 <a href="https://keppe-john.github.io/portfolio-site/">
