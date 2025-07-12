@@ -82,11 +82,11 @@ Portfolio-Created with Assistance from Microsoft Copilot
 
 Raw Resume-Not Enhanced using Google Gemini
 
-[![Resume Preview](raw-resume.png)](https://johnkeppe-resume.neocities.org/)
+[![Resume Preview](rawresume.png)](https://johnkeppe-resume.neocities.org/)
 
 Enhanced Resume with the help of Google Gemini
 
-[![Enhanced Resume Preview](enhanced-resume.png)](https://keppe-john.github.io/resume/)
+[![Enhanced Resume Preview](enhancedresume.png)](https://keppe-john.github.io/resume/)
 
 ---
 
